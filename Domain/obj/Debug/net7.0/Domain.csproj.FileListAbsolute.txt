@@ -1,0 +1,12 @@
+/Users/BenNolan/projects/dotNet/reactivity/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/BenNolan/projects/dotNet/reactivity/Domain/bin/Debug/net7.0/Domain.dll
+/Users/BenNolan/projects/dotNet/reactivity/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.dll
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/BenNolan/projects/dotNet/reactivity/Domain/obj/Debug/net7.0/ref/Domain.dll
