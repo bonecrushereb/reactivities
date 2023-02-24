@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RYdyEr8dIdFbW4NJI9c7Ta6GtNiV3UF75MWg1tGUsxCAwFjkmdXlTM0L1f5rEiJSnK5Q568YdJjvrZoz6ONKtA==",
+  "dgSpecHash": "Fq6MDzYEGXRplT7liloTTpvbosJ7igddBPyusdq90HpK6GQloIIao5pBbMc+yISlIJSgmnorYmkP2tNsInqx/w==",
   "success": true,
   "projectFilePath": "/Users/BenNolan/projects/dotNet/reactivity/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/BenNolan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.3/microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
