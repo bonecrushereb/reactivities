@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e15ZDzmAJV4Ay6ywyp10T/vsGj2bWVuq3gqdoMTwj2wJWGue8qw8Sc25giOrYLsS6XXxC6B8Bn+O7Z/MYu/HMg==",
+  "dgSpecHash": "jiD/I584ggu029ugwLV9ea6b0SlT02N8uRRZ7Sgtulbf9FMkBt+2ddMUpFcmV3EXkgmNhChntD0I3MGziYuAmg==",
   "success": true,
   "projectFilePath": "/Users/BenNolan/projects/dotNet/reactivity/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/BenNolan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
