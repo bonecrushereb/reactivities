@@ -3,9 +3,9 @@ using Domain;
 
 namespace Application.Core
 {
-  public class MappngProfiles : Profile
+  public class MappingProfiles : Profile
   {
-    public MappngProfiles()
+    public MappingProfiles()
     {
       CreateMap<Activity, Activity>();
     }
