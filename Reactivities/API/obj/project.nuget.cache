@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "jiD/I584ggu029ugwLV9ea6b0SlT02N8uRRZ7Sgtulbf9FMkBt+2ddMUpFcmV3EXkgmNhChntD0I3MGziYuAmg==",
+  "dgSpecHash": "qlrNDO/AhA7/f43aVZI/oXWdN6Pgxs42XUZqYJMqOl9G2niW1kfupSQMp73WeGUGP71rjDlOyUy6Yhh+ZM09QA==",
   "success": true,
   "projectFilePath": "/Users/BenNolan/projects/dotNet/reactivity/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/BenNolan/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "/Users/BenNolan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.entityframeworkcore/7.0.3/microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "/Users/BenNolan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.3/microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
